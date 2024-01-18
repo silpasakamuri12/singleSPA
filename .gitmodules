@@ -1,0 +1,3 @@
+[submodule "content-mf"]
+	path = content-mf
+	url = https://github.com/silpasakamuri12/singlespareact.git
